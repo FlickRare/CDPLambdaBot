@@ -1,0 +1,15 @@
+[BTC_USDC]
+product_id = "BTC-USDC"
+stack_bot.active = true
+stack_bot.threshold= 0
+stack_bot.quote = 1
+snatch_bot.active = true
+snatch_bot.quote = 1
+
+[SOL_USDC]
+product_id = "SOL-USDC"
+stack_bot.active = true
+stack_bot.threshold= -4
+stack_bot.quote = 1
+snatch_bot.active = true
+snatch_bot.quote = 1
